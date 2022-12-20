@@ -1,0 +1,27 @@
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\bin\Debug\VoiceRs.exe
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\bin\Debug\VoiceRs.pdb
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\obj\x86\Debug\VoiceRs.Form1.resources
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\obj\x86\Debug\VoiceRs.Properties.Resources.resources
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\obj\x86\Debug\VoiceRs.csproj.GenerateResource.Cache
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\obj\x86\Debug\VoiceRs.exe
+C:\Users\ASIF\AppData\Local\Temporary Projects\VoiceRs\obj\x86\Debug\VoiceRs.pdb
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.exe
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.pdb
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\bin\Debug\VoiceRs.exe
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\bin\Debug\VoiceRs.pdb
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.Form1.resources
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.Properties.Resources.resources
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.csproj.GenerateResource.Cache
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\bin\Debug\VoiceRs.exe.config
+C:\Users\ASIF\documents\visual studio 2010\Projects\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.csprojResolveAssemblyReference.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\bin\Debug\VoiceRs.exe.config
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\bin\Debug\VoiceRs.exe
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\bin\Debug\VoiceRs.pdb
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.csproj.AssemblyReference.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.Form1.resources
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.Properties.Resources.resources
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.csproj.GenerateResource.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.exe
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.pdb

@@ -1,0 +1,11 @@
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\bin\Debug\VoiceRs.exe.config
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\bin\Debug\VoiceRs.exe
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\bin\Debug\VoiceRs.pdb
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceTTS.csproj.AssemblyReference.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceTTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.Form1.resources
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.Properties.Resources.resources
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceTTS.csproj.GenerateResource.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceTTS.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.exe
+C:\Users\Carlos.Lopez\Desktop\VoiceRs\VoiceRs\obj\x86\Debug\VoiceRs.pdb
